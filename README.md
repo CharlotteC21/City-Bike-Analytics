@@ -1,4 +1,5 @@
 # Tableau Homework - Citi Bike Analytics
+<img width="1324" alt="Screen Shot 2022-03-08 at 11 38 36 PM" src="https://user-images.githubusercontent.com/91695375/157373820-b9338e90-52da-4d87-8efa-18a40b15e9d2.png">
 
 ### Before You Begin
 
